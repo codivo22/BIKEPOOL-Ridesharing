@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap');
+
+:root {
+  font-family: 'DM Sans', Arial, sans-serif;
+  color: #17251e;
+  background: #f7f8f2;
+  font-synthesis: none;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; min-width: 320px; }
+button, a { font: inherit; }
+button { cursor: pointer; }
+button:disabled { cursor: not-allowed; opacity: .62; }
+:focus-visible { outline: 3px solid #e66a43; outline-offset: 3px; }
+.skip-link { background: #153526; color: #fff; left: 12px; padding: 10px 14px; position: fixed; top: -60px; z-index: 2000; }
+.skip-link:focus { top: 12px; }
