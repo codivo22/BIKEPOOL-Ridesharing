@@ -2,7 +2,7 @@
 
 > Share the Ride, Share the Cost.
 
-BikePool connects bike owners travelling on a route with passengers looking for an affordable shared ride. It is a B.Tech final-year full-stack project built with the technology stack specified in its proposal.
+BikePool connects bike owners travelling on a route with passengers looking for an affordable shared ride. It is a Final-year full-stack project.
 
 ## Technology stack
 
